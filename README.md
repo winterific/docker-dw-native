@@ -1,0 +1,1 @@
+An example Dockerfile for using the awesome [DataWeave Native application](https://github.com/mulesoft-labs/data-weave-native) for playing with DataWeave.
